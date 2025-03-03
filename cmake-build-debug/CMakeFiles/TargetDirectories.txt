@@ -1,5 +1,0 @@
-C:/Users/Pavan/CLionProjects/Algorithms/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Pavan/CLionProjects/Algorithms/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/Pavan/CLionProjects/Algorithms/cmake-build-debug/Selection_srt/CMakeFiles/Selection_srt.dir
-C:/Users/Pavan/CLionProjects/Algorithms/cmake-build-debug/Selection_srt/CMakeFiles/edit_cache.dir
-C:/Users/Pavan/CLionProjects/Algorithms/cmake-build-debug/Selection_srt/CMakeFiles/rebuild_cache.dir
