@@ -1,0 +1,6 @@
+# ninja log v6
+6	186	7627010825712822	CMakeFiles/Algorithms.dir/main.c.obj	87e526929949c46f
+3	322	7627146756562347	build.ninja	5df6c4e92944df1e
+186	358	7627010827520906	Algorithms.exe	5d79c3c764960fc8
+2	88	7627146823171044	Selection_srt/CMakeFiles/Selection_srt.dir/main.c.obj	f85a563f73fc576b
+89	200	7627146824050842	Selection_srt/Selection_srt.exe	bba4acfffb6ae0a3
